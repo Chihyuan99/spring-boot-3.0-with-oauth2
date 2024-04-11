@@ -34,19 +34,3 @@ spring:
 ```
 
 ### Start the application and enjoy your Social-login
-
-### DEMO
-#### 1. Choose to login with Google Credentials
-<img src="images/1.png">
-
-#### 2. Choose an Google Account
-<img src="images/2.png">
-
-#### 3. Sign in with Google
-<img src="images/3.png">
-
-#### 4. Successfully signed in with Google
-<img src="images/4.png">
-
-#### 5. Sign in with Github
-<img src="images/5.png">
