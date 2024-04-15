@@ -13,7 +13,7 @@ A sample project that shows how to implement OAuth2 login using **Github** and *
 ### Steps to create a gitHub application 
 * Go to [GitHub developer portal](https://github.com/settings/developers)
 * Create a new application and provide the required information
-  * Set the homepage URL to http://localhost:8080
+  * Set the homepage URL to http://localhost:8080 
   * Authorization callback URL to http://localhost:8080/login/oauth2/code/github.
 
 ### Update the `application.yml` file
