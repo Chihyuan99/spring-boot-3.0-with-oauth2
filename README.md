@@ -8,7 +8,7 @@ A sample project that shows how to implement OAuth2 login using **Github** and *
 
 ### OAuth2.0 flow (How things really work in action)
 
-![Diagram](./oauth2-flow.png?raw=true "OAuth 2.0 flow diagram") 
+![Diagram](./oauth2-flow.png?raw=true "OAuth 2.0 flow diagram")
 
 ### Steps to create a gitHub application
 * Go to [GitHub developer portal](https://github.com/settings/developers)
