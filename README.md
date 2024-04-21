@@ -2,7 +2,7 @@
 
 A sample project that shows how to implement OAuth2 login using **Github** and **Google** as resource servers
 
-### Application diagram 
+### Application diagram
 
 ![Diagram](./diagram.png?raw=true "Diagram")
 
