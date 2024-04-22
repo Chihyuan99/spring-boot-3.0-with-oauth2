@@ -33,4 +33,4 @@ spring:
             clientSecret: google-app-client-secret-here
 ```
 
-### Start the application and enjoy the Social-login
+### Start the application and enjoy the Social-login 
